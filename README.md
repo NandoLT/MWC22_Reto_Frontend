@@ -1,7 +1,26 @@
-# Getting Started with Create React App
+# MWC22  Frontend
+Ponte en el papel de que el Barcelona Digital Talent te ha contratado para desarrollar la web anterior. Puedes utilizar la tecnología que creas más conveniente siempre que se cumplas los siguientes puntos:
+✅ Task 1 → Formulario que permita introducir los siguientes datos: correo electrónico, nombre completo, breve descripción, país y ciudad de residencia.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+✅ Task 2 → Generar un avatar de la persona de forma aleatoria (puede ser utilizando una API, colores, etc)
 
+✅ Task 3 → Formulario que permita introducir datos profesionales: años de experiencia, sector (Front, Back, Mobile o Data), skills: (se pueden añadir de forma libre)
+
+✅ Task 4 → Las skills salen en formato tag en alguna parte del perfil
+
+✅ Task 5 → Una vista que permita ver todo el perfil de user con los datos anteriores
+📚 Evaluación
+Los siguientes puntos se tendrán en cuenta para la corrección:
+
+1. Objetivos completados
+2. Estructura y calidad de código
+3. Documentación
+4. Deploy / demo de la aplicación
+5. Diseño y experiencia de usuario
+<br><br>
+<img src="https://challenges-asset-files.s3.us-east-2.amazonaws.com/Femhack/Creator_EN.png" />
+
+--------------------------------
 ## Available Scripts
 
 In the project directory, you can run:
@@ -27,44 +46,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
