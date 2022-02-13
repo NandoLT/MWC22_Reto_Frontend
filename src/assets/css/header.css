@@ -1,0 +1,28 @@
+.header {
+    align-items: center;
+    display: flex;
+    border-bottom: 1px solid rgba(158, 158, 158, 0.6);
+}
+
+.header-logo {
+    margin-left: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    font-size: x-large;
+    color:rgb(9, 74, 112);
+}
+
+.header-logo:hover {
+    color:rgb(15, 114, 172);
+}
+
+.header-nav {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+.header-button {
+    width: 144px;
+    margin-left: 10px;
+}

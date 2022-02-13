@@ -1,0 +1,10 @@
+.container-grid{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.user-avatar{
+    width: 200px; 
+    height:auto;
+}
