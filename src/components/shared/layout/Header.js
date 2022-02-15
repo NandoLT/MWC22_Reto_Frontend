@@ -1,6 +1,6 @@
 import React from 'react';
 import classNames from 'classnames';
-import {Link, useNavigate} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import logomwc from '../../../assets/images/logo-mwc.png'
 import AuthButton from '../../auth/AuthButton';
 import storage from '../../../utils/storage'
@@ -8,7 +8,6 @@ import storage from '../../../utils/storage'
 import '../../../assets/css/header.css';
 
 const Header = ({ className, accesGranted }) => {
-    const navigation = useNavigate();
 
     const onLogout = () => {
         console.log('LOGOUT');

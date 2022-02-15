@@ -9,17 +9,21 @@
 .layout-main {
     border-left-width: 1px;
     border-right-width: 1px;
-    margin: 0 auto;
+    margin: 35px auto 0 auto;
     max-width: 80%;
     min-height: calc(100vh - 128px);
 }
 
 .layout-title {
+    width:400px;
     align-items: center;
-    border-bottom-width: 1px;
-    display: flex;
     height: 52px;
     padding: 0 15px;
+    margin: auto;
+    border: 1px solid #1285e3;
+    color: white;
+    background-color: #1285e3;
+    border-radius: 15px;
 }
 
 .layout-header {

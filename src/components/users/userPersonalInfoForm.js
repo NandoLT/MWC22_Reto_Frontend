@@ -96,6 +96,7 @@ export default function UserPersonalInfoForm({ onSubmit }) {
                     </select>
                     : null
             }
+            <br></br>
             <Button 
                 type="submit"
                 className="loginForm-submit"

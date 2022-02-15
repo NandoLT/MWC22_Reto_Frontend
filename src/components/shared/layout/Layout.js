@@ -10,6 +10,7 @@ function Layout({ children, title, accesGranted}) {
         <Header className="layout-header bordered" accesGranted={accesGranted} />
         <main className="layout-main bordered">
         <h2 className="layout-title bordered title is-4">{title}</h2>
+        <hr className="separator-layout"/>
             <section className="layout-content">{children}</section>
         </main>
         <Footer />
